@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SihanWang-WHU
-- 👀 I’m applying for a M.S. program in CS/DS in the States
+- 👀 I’m applying for a M.S. program in CS/DS in the United States
 - 🌱 I’m currently learning in Wuhan University majoring in Navigation Engineering
 - 📫 How to reach me sihanwang0202@gmail.com
 
