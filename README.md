@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SihanWang-WHU
-- 👀 I’m applying for a M.S./ Ph.D. program in CS/DS in the United States
+- 👀 I’m a incoming master student in University of California, San Diego majoring in Data Science
 - 🌱 I’m currently learning in Wuhan University majoring in Navigation Engineering
 - 📫 How to reach me sihanwang0202@gmail.com
 
